@@ -1,0 +1,11 @@
+.carousel-caption h5,
+.carousel-caption p {
+    color: white; /* Cambia #ff0000 al color que desees */
+}
+
+
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 25px;
+    animation: entrada 1s ease forwards;
+}
